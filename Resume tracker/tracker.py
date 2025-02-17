@@ -21,7 +21,7 @@ def analyze_resume(api_key, text):
     }
 
 # API Key for AI Integration
-API_KEY = "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"
+API_KEY = "api key"
 
 # Preprocess the extracted text
 def clean_text(text):
